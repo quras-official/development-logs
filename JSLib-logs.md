@@ -1,0 +1,6 @@
+# Quras JS Library logs
+### 2020.11.7
+Fixed audit issues:
+- Fix the encryption key length issue during the encryption and decryption of data.
+- Prevent the minus value when generating transactions.
+- Fix the validation of "false" value when processing the smart contract script.
