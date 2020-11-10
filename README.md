@@ -8,7 +8,7 @@ web wallet url: <https://quraswallet.org>
 ## Windows wallet:
 download link:
 
-[windows wallet update logs]()
+[windows wallet update logs](windows-wallet-logs.md)
 ## Mac wallet:
 download link: <https://api.quraswallet.org/downloadMacWallet>
 
@@ -20,3 +20,8 @@ android download link:
 <https://play.google.com/store/apps/details?id=io.quras.wallet>
 
 [mobile wallet update logs]()
+
+## JS Library:
+download link:
+
+[JS Library update logs](JSLib-logs.md)
