@@ -4,3 +4,9 @@ Fixed audit issues:
 - Fix the encryption key length issue during the encryption and decryption of data.
 - Prevent the minus value when generating transactions.
 - Fix the validation of "false" value when processing the smart contract script.
+
+### 2020.11.13
+Update DevNet environment:
+- Update the DevNet APIService url.
+Fix Invoking smart contract issue:
+- Fix the fee issue when invoking the smart contract.
