@@ -10,3 +10,7 @@ Update DevNet environment:
 - Update the DevNet APIService url.
 Fix Invoking smart contract issue:
 - Fix the fee issue when invoking the smart contract.
+
+### 2020.11.26(v2.0.0)
+Ignore minus value with Fixed8:
+- Ignore minus value for sorting Fixed8 arrays.
