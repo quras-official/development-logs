@@ -1,4 +1,8 @@
 # Quras web wallet logs
+### 2020.12.04
+Updates:
+- Modified footer: added hello@quras.io to it
+- Fixed app center string bugs
 ### 2020.11.30
 Fixed bugs:
 - Language symbol display issue
