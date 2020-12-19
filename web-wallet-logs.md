@@ -1,4 +1,8 @@
 # Quras web wallet logs
+### 2020.12.19
+Updates:
+- Released mainnet
+- Added web, windows feedback options on contact page
 ### 2020.12.04
 Updates:
 - Modified footer: added hello@quras.io to it
