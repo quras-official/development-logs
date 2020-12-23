@@ -1,4 +1,7 @@
 # Quras web wallet logs
+### 2020.12.23
+Updates:
+- Added market info: price, volume of XQC
 ### 2020.12.19
 Updates:
 - Released mainnet
