@@ -1,4 +1,7 @@
 # Quras web wallet logs
+### 2020.12.30
+Updates:
+- Fixed xqc/xqg decimal issues
 ### 2020.12.23
 Updates:
 - Added market info: price, volume of XQC
