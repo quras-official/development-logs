@@ -14,3 +14,7 @@ Fix Invoking smart contract issue:
 ### 2020.11.26(v2.0.0)
 Ignore minus value with Fixed8:
 - Ignore minus value for sorting Fixed8 arrays.
+
+### 2020.12.26(v2.0.1)
+Fix an issue of smart contract fee:
+- Fix an issue of executing smart contract fee.
