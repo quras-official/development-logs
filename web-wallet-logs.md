@@ -1,16 +1,14 @@
 # Quras web wallet logs
+### 2021.01.11
+- Added cn, jp strings for multisig function
 ### 2020.12.30
-Updates:
 - Fixed xqc/xqg decimal issues
 ### 2020.12.23
-Updates:
 - Added market info: price, volume of XQC
 ### 2020.12.19
-Updates:
 - Released mainnet
 - Added web, windows feedback options on contact page
 ### 2020.12.04
-Updates:
 - Modified footer: added hello@quras.io to it
 - Fixed app center string bugs
 ### 2020.11.30
